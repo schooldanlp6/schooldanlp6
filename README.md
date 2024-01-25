@@ -7,6 +7,6 @@
 
 |My Tooling|
 |-----------|
-|
-|![](https://img.shields.io/badge/GPU-Nvidia_2080_Super-green)
+|![Static Badge](https://img.shields.io/badge/CPU-Intel_i7_10.th_Gen-blue)|
+|![](https://img.shields.io/badge/GPU-Nvidia_2080_Super-green)|
 |
