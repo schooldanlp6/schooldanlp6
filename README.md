@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on MarkMan in Godot 4.1.1 pls src and syncing is not public until game reaches a usable state. so yes would like to see collabration
 - 📫 Just reach me via school.danlp6@outlook.de
 - My Projects Overview [https://github.com/schooldanlp6/wiki/wiki]
+- My Skills are at https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtwnzP2fYIjyo3H0qZJWAkC98HxxirQm-xQ&usqp=CAU 
