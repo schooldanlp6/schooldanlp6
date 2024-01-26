@@ -20,5 +20,6 @@
 |![Static Badge](https://img.shields.io/badge/Oracle-java-red)|
 |![Static Badge](https://img.shields.io/badge/My-SQL-black)|
 |![Static Badge](https://img.shields.io/badge/Godot-Engine_4.1-blue)|
+|![Static Badge](https://img.shields.io/badge/bash-sh-black)|
 
 ![Static Badge](https://img.shields.io/badge/Collaborate_with_me-school.danlp6%2Bcollab%40outlook.de-darkgreen)
