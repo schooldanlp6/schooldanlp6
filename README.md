@@ -7,9 +7,15 @@
 
 |My Tooling|
 |-----------|
+|Razer Blade Modded|
 |![Static Badge](https://img.shields.io/badge/CPU-Intel_i7_10.th_Gen-blue)|
 |![](https://img.shields.io/badge/GPU-Nvidia_2080_Super-green)|
-|![Static Badge](https://img.shields.io/badge/RAM-64GB_DDR4-purple)|
+|![Static Badge](https://img.shields.io/badge/RAM-32GB_DDR4-purple)|
+|------------|
+|Framework 13 Mainboard / Cyberdeck|
+|![Static Badge](https://img.shields.io/badge/CPU-Intel_i7_11.th_Gen-blue)|
+|![Static Badge](https://img.shields.io/badge/RAM-8GB_DDR4-purple)|
+|------------|
 |Oh and an ![Static Badge](https://img.shields.io/badge/Mini_PC-Orange_PI_5_8GB-orange) for testing|
 
 |My Language Toolbox|
