@@ -11,6 +11,10 @@
 |![](https://img.shields.io/badge/GPU-Nvidia_2080_Super-green)|
 |![Static Badge](https://img.shields.io/badge/RAM-32GB_DDR4-purple)|
 |------------|
+|Framework 13|
+|![Static Badge](https://img.shields.io/badge/CPU-Intel_Core_Ultra_155H-blue)|
+|![Static Badge](https://img.shields.io/badge/RAM-32GB_DDR5-purple)|
+|------------|
 |Framework 13 Mainboard / Cyberdeck|
 |![Static Badge](https://img.shields.io/badge/CPU-Intel_i7_11.th_Gen-blue)|
 |![Static Badge](https://img.shields.io/badge/RAM-8GB_DDR4-purple)|
