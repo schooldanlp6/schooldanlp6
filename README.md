@@ -15,6 +15,7 @@
 |-------------------|
 |![Static Badge](https://img.shields.io/badge/Python-black)|
 |![Static Badge](https://img.shields.io/badge/Rust-f00636)|
+|![Static Badge](https://img.shields.io/badge/Web_Dev-orange)|
 |![Static Badge](https://img.shields.io/badge/Node-JS-green)|
 |![Static Badge](https://img.shields.io/badge/Oracle-java-red)|
 |![Static Badge](https://img.shields.io/badge/My-SQL-black)|
