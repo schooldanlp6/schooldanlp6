@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a person
 - 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on MarkMan in Godot 4.1.1 pls src and syncing is not public until game reaches a usable state. so yes would like to see collabration
+- 💞️ I’m looking to collaborate on MarkMan in Godot 4.1.1 --- src and syncing is not public until game reaches a usable state. so yes would like to see collabration
 - 📫 Just reach me via school.danlp6@outlook.de
 - My Projects Overview [here](https://github.com/schooldanlp6/wiki/wiki)
 
