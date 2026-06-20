@@ -9,11 +9,11 @@ I am moving to gitea here: https://gitea.com/danlp6
 - My Projects Overview [here](https://github.com/schooldanlp6/wiki/wiki)
 - (Oh btw Master > main Branch)
 
-| Component | Test Machine | Framework 13 | Spare Framework Mainboard | (ARM) Orange PI 5 |
+| Component | Framework 13 | Spare Framework Mainboard | (ARM) Orange PI 5 |
 |-----------|--------------------|--------------|------------------------------------|-------------------|
-| CPU | ![Static Badge](https://img.shields.io/badge/CPU-Intel_i7_10.th_Gen-blue) | ![Static Badge](https://img.shields.io/badge/CPU-Intel_Core_Ultra_7_155H-blue) | ![Static Badge](https://img.shields.io/badge/CPU-Intel_i7_11.th_Gen-blue) | ![Static Badge](https://img.shields.io/badge/CPU-Rock_Chip_rk_xxxx-orange) | 
-| GPU | ![](https://img.shields.io/badge/GPU-Nvidia_2080_Super-green) | ![Static Badge](https://img.shields.io/badge/GPU-Intel_Core_Ultra_Arc_iGPU-blue) | ![Static Badge](https://img.shields.io/badge/GPU-Intel_iGPU-blue) | ![Static Badge](https://img.shields.io/badge/GPU-rk_iGPU-orange) |
-| RAM |  ![Static Badge](https://img.shields.io/badge/RAM-32GB_DDR4-purple) |  ![Static Badge](https://img.shields.io/badge/RAM-32GB_DDR5-purple) | ![Static Badge](https://img.shields.io/badge/RAM-8GB_DDR4-purple) | ![Static Badge](https://img.shields.io/badge/RAM-8GB_DDR4-purple) |
+| CPU | ![Static Badge](https://img.shields.io/badge/CPU-Intel_Core_Ultra_7_125H-blue) | ![Static Badge](https://img.shields.io/badge/CPU-Intel_i7_11.th_Gen-blue) | ![Static Badge](https://img.shields.io/badge/CPU-Rock_Chip_rk_xxxx-orange) | 
+| ![Static Badge](https://img.shields.io/badge/GPU-Intel_Core_Ultra_Arc_iGPU-blue) | ![Static Badge](https://img.shields.io/badge/GPU-Intel_iGPU-blue) | ![Static Badge](https://img.shields.io/badge/GPU-rk_iGPU-orange) |
+| RAM | ![Static Badge](https://img.shields.io/badge/RAM-32GB_DDR5-purple) | ![Static Badge](https://img.shields.io/badge/RAM-8GB_DDR4-purple) | ![Static Badge](https://img.shields.io/badge/RAM-8GB_DDR4-purple) |
 
 
 |My Language Toolbox|
