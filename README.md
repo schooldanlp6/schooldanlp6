@@ -12,7 +12,7 @@ I am moving to gitea here: https://gitea.com/danlp6
 | Component | Framework 13 | Spare Framework Mainboard | (ARM) Orange PI 5 |
 |-----------|--------------|------------------------------------|-------------------|
 | CPU | ![Static Badge](https://img.shields.io/badge/CPU-Intel_Core_Ultra_7_125H-blue) | ![Static Badge](https://img.shields.io/badge/CPU-Intel_i7_11.th_Gen-blue) | ![Static Badge](https://img.shields.io/badge/CPU-Rock_Chip_rk_xxxx-orange) | 
-| ![Static Badge](https://img.shields.io/badge/GPU-Intel_Core_Ultra_Arc_iGPU-blue) | ![Static Badge](https://img.shields.io/badge/GPU-Intel_iGPU-blue) | ![Static Badge](https://img.shields.io/badge/GPU-rk_iGPU-orange) |
+| GPU | ![Static Badge](https://img.shields.io/badge/GPU-Intel_Core_Ultra_Arc_iGPU-blue) | ![Static Badge](https://img.shields.io/badge/GPU-Intel_iGPU-blue) | ![Static Badge](https://img.shields.io/badge/GPU-rk_iGPU-orange) |
 | RAM | ![Static Badge](https://img.shields.io/badge/RAM-32GB_DDR5-purple) | ![Static Badge](https://img.shields.io/badge/RAM-8GB_DDR4-purple) | ![Static Badge](https://img.shields.io/badge/RAM-8GB_DDR4-purple) |
 
 
